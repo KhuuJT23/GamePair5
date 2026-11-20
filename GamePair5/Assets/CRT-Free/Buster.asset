@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Buster
   m_EditorClassIdentifier: Assembly-CSharp::BrewedInk.CRT.CRTDataObject
   data:
-    pixelationAmount: 10
+    pixelationAmount: 200
     maxColorChannels:
       red: 0
       green: 0
@@ -42,4 +42,4 @@ MonoBehaviour:
       sizeMultiplier: 2
     innerMonitorShineRadius: -0.087
     innerMonitorShineCurve: 10
-  validationId: 78b0151b-d15b-4ab1-9058-c8d8329937d6
+  validationId: 93846f8e-240e-4caa-869e-b580c9d184bd
